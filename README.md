@@ -21,19 +21,6 @@ This project demonstrates my skills in **VB.NET**, **Windows Forms**, **API inte
 
 ---
 
-## Screenshots
-
-*(You can add images/screenshots in an `assets/` folder and reference them here)*
-
-```
-assets/homepage.png
-assets/motivational.png
-assets/jokes.png
-assets/facts.png
-```
-
----
-
 ## How to Run
 
 1. Clone the repository:
