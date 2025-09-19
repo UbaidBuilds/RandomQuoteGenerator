@@ -45,30 +45,6 @@ git clone https://github.com/yourusername/RandomQuoteGenerator.git
 
 ---
 
-## Project Structure
-
-```
-RandomQuoteGenerator/
-│   RandomQuoteGenerator.sln
-│   RandomQuoteGenerator.vbproj
-│   frmHome.vb
-│   frmMotivational.vb
-│   frmJokes.vb
-│   frmFacts.vb
-│   ... other VB source files
-assets/               (optional images/screenshots)
-README.md
-.gitignore
-```
-
-* `.sln` – Visual Studio solution file
-* `.vbproj` – Project configuration
-* `.vb` files – Forms and classes containing your code
-* `assets/` – Optional screenshots or images
-* `.gitignore` – Keeps unnecessary files/folders out of the repository
-
----
-
 ## Skills Demonstrated
 
 * Windows Forms development with VB.NET
