@@ -64,8 +64,6 @@ The project is organized into the following main source files:
 - [`frmMotivational.vb`](RandomQuoteGenerator/Motivational.vb) – Handles fetching and displaying motivational quotes.
 - [`frmJokes.vb`](RandomQuoteGenerator/frmJokes.vb) – Handles fetching and displaying random jokes.
 - [`frmFacts.vb`](RandomQuoteGenerator/frmFacts.vb) – Handles fetching and displaying random facts.
-- [`RandomQuoteGenerator.vbproj`](RandomQuoteGenerator.vbproj) – Project configuration file.
-- [`RandomQuoteGenerator.sln`](RandomQuoteGenerator.sln) – Visual Studio solution file.
 
 
 ## Notes
