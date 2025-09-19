@@ -60,8 +60,8 @@ git clone https://github.com/yourusername/RandomQuoteGenerator.git
 
 The project is organized into the following main source files:
 
-- [`frmHome.vb`](RandomQuoteGenerator/frmHome.vb) – The homepage form that lets users select Quotes, Jokes, or Facts.
-- [`frmMotivational.vb`](RandomQuoteGenerator/frmMotivational.vb) – Handles fetching and displaying motivational quotes.
+- [`frmHome.vb`](RandomQuoteGenerator/form1.vb) – The homepage form that lets users select Quotes, Jokes, or Facts.
+- [`frmMotivational.vb`](RandomQuoteGenerator/Motivational.vb) – Handles fetching and displaying motivational quotes.
 - [`frmJokes.vb`](RandomQuoteGenerator/frmJokes.vb) – Handles fetching and displaying random jokes.
 - [`frmFacts.vb`](RandomQuoteGenerator/frmFacts.vb) – Handles fetching and displaying random facts.
 - [`RandomQuoteGenerator.vbproj`](RandomQuoteGenerator.vbproj) – Project configuration file.
